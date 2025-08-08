@@ -5,15 +5,13 @@ Soy estudiante de desarrollo de software en [Valle grande]. Me apasiona crear ap
 
 ## Habilidades
 
-...
-
 Lenguajes: Python, JavaScript, HTML/CSS.
 Herramientas: Git, Docker, VS Code.
 Frameworks: React o Django.
 
 ## Proyectos destacados
 
-[Nombre del Proyecto]: Proporciona una descripción breve del proyecto, como "Una aplicación web para [descripción breve]" o "Un script en Python para [descripción breve]".
+[DavidRojas]: Proporciona una descripción breve del proyecto
 
 [Enlace al repositorio]: Incluye el enlace directo al repositorio de GitHub del proyecto.
 
