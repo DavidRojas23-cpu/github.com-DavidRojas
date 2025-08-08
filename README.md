@@ -13,7 +13,7 @@ Frameworks: React o Django.
 
 [DavidRojas]: Proporciona una descripción breve del proyecto
 
-[Enlace al repositorio]: Incluye el enlace directo al repositorio de GitHub del proyecto.
+[https://github.com/DavidRojasGmb/github.com-DavidRojas]: Incluye el enlace directo al repositorio de GitHub del proyecto.
 
 Contáctame
 
